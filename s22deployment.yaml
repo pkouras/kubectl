@@ -18,4 +18,3 @@ spec:
        containers:
          - name: proxy-container
            image: traefik:v2.0
-dfsdf
